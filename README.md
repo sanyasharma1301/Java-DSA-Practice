@@ -41,4 +41,4 @@ This repository contains beginner-friendly Java programs created using the BlueJ
 Created by Sanya Sharma  
 Email: sanya.sharma1301@gmail.com  
 LinkedIn: https://linkedin.com/in/sanya-sharma-74a7a3330  
-Resume Project (Tableau): https://github.com/sanyasharma1301/Deloitte-Virtual-Internship
+Tableau Resume: https://github.com/sanyasharma1301/Deloitte-Virtual-Internship
