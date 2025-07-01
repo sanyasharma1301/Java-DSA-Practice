@@ -1,4 +1,4 @@
-//program to search a number using binary search
+//program to search a number using Binary search(UNSORTED)
 import java.util.*;
 public class BinarySearch
 {
