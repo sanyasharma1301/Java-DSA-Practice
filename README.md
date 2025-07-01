@@ -23,6 +23,8 @@ This repository contains beginner-friendly Java programs created using the BlueJ
 ### Recursion
 - `Factorial.java`: Recursive function to calculate the factorial of a number.
 - `PalindromeCheck.java`: Recursively checks if a string is a palindrome.
+- `TwistedPrime.java`: Checks if a number is a twisted prime using recursion
+- `Fibonacci.java`: Prints the Fibonacci series using recursion.
 
 ---
 
