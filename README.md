@@ -37,6 +37,7 @@ This repository contains beginner-friendly Java programs developed using the Blu
 ### Strings
 - `CountVowels.java`: Counts the number of vowels in a string.
 - `PigLatin.java`: Converts a word or sentence into Pig Latin format.
+- `ReverseSentence.java`: Reverses the order of words in a given sentence.
 
 ---
 
